@@ -2,37 +2,34 @@
 body {
     margin: auto;
     text-align: center;
-    border: 1px solid red;
     font-family: 'Roboto', sans-serif;
 }
+
 p {
     margin-top: 2px 0 2px;
 }
+
 .lirycs {
-    border: 1px solid blue;
     justify-content: center;
     font-family:'Open Sans Condensed', sans-serif;
 }
 
 .first-row {
-    border: 1px solid red;
     width: 50%;
     text-align: justify;
-    margin: 10px auto;
+    margin: 50px auto;
 }
 
 .second-row {
-    border: 1px solid red;
     width: 50%;
     text-align: justify;
-    margin: 10px auto;
+    margin: 50px auto;
 }
 
 .third-row {
-    border: 1px solid red;
     width: 50%;
     text-align: justify;
-    margin: 10px auto;
+    margin: 50px auto;
 }
 
 .third-row > p:last-child {
