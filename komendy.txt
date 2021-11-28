@@ -1,1 +1,4 @@
-html-validate -> npm run test 
+
+node_modules/.bin/autoprefixer-cli -o main.prefixed.css main.css
+
+node_modules/.bin/html-validate *.html
